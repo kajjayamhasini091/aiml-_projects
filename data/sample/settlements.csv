@@ -1,0 +1,11 @@
+settlement_id,amount,fees,tax,utr,created_at,payment_ids
+setl_PRIssjRRkwn9Xo,162446.06,3327.45,598.95,UTR435491803744,2026-08-20 23:59:04,"[""pay_rnTP3fAbnFbmOH"", ""pay_h5esM2wleOV911"", ""pay_uVdYXye4JSnE2N"", ""pay_dx9G81aSQHqNgA"", ""pay_ub52Ztd26fEeVV""]"
+setl_Ze8NBQv2WNl7A4,101377.76,2076.56,373.78,UTR011137398826,2026-08-20 16:12:54,"[""pay_nuKoneNo41eoPn"", ""pay_v1plBArp5B1Id9"", ""pay_lndTdtdD5GdF0e"", ""pay_OC56aMIgHFivep"", ""pay_rnvQ0Fp4dNZcui""]"
+setl_hsHFk6jOSL0IZb,124264.03,2544.79,458.06,UTR065674646294,2026-08-18 23:48:30,"[""pay_npgW2zMj518Y2b"", ""pay_blu17rNy8H6h8l"", ""pay_A65MPh3FPuRIlP"", ""pay_fFNuYUPnmbpD0e"", ""pay_p0CXP9K63LSFZH""]"
+setl_sedBEmLtST18iw,152474.1,3123.19,562.16,UTR534220236281,2026-08-20 13:51:58,"[""pay_oRRdzHzmA4KR1V"", ""pay_kChMbyIbNiCdxn"", ""pay_0MoDh6CpwL7SWk"", ""pay_HPeOaAEAw3CjkG"", ""pay_EuEvqrK2IGlozI""]"
+setl_5Slj9C2EfyCoKd,100818.38,2065.1,371.72,UTR258620112340,2026-08-14 09:02:10,"[""pay_toStU6QlTrKVL8"", ""pay_v7p1heEJQjY6fp"", ""pay_OjkeaBKsoRRCQ5"", ""pay_QR6FEecAtpf7ZJ"", ""pay_P1uRr6YICtu8zF""]"
+setl_JmIeFVr9Qh8yXv,114176.43,2338.72,420.97,UTR971550134465,2026-08-19 05:28:42,"[""pay_jIIf94ChZESFqZ"", ""pay_JO1BEuVx518ox1"", ""pay_4ai18eWqMyeuPH"", ""pay_sbudwApzQlkLxQ"", ""pay_0mxDoJJ9s8OrJQ""]"
+setl_5tyM0KFFEIDbug,139567.01,2858.81,514.59,UTR438865269520,2026-08-18 05:31:15,"[""pay_OtBJTfsUkiH8G4"", ""pay_XaHCPPKY6gob2I"", ""pay_UjzgEz6cwB61gQ"", ""pay_ZIKYoWWKr99HXg"", ""pay_cW1GC7dDyQE4ef""]"
+setl_kMM0jQb6gbtjQz,117069.38,2398.36,431.7,UTR798701236531,2026-08-13 10:32:02,"[""pay_BovCzfAPxj5eZf"", ""pay_JnOng0wVJY08YM"", ""pay_UnAvwSWJfdjMPq"", ""pay_VVrhEAiHoIPvyU"", ""pay_pKGytvukFhF4vT""]"
+setl_HP1QXqE7rs68VR,199388.66,4084.16,735.14,UTR644597255833,2026-08-20 08:07:08,"[""pay_tBDNXKveCcwrN8"", ""pay_fOcR9GLw4yWQdN"", ""pay_RfINuhR694fPFb"", ""pay_xkZVYkBzPoBrUB"", ""pay_dDx5SFhfjBFZf4""]"
+setl_srSvBpDmH5RiMK,37713.31,772.5,139.06,UTR265604717059,2026-08-18 21:29:28,"[""pay_ZVDM4bnj6LAWoh"", ""pay_8eGF9IyDN8pbWv"", ""pay_scmc5F9HpUlwW1"", ""pay_sgusBSkBBT4MAN"", ""pay_jBwBeiwtr7blG4""]"
